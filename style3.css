@@ -1,0 +1,112 @@
+*,
+body,
+html {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+
+body {
+	display: block;
+	justify-content: center;
+}
+
+.gambar {
+	display: flex;
+	position: relative;
+	position: absolute;
+	top: 50px;
+	margin-left: -120px;
+	margin-top: -160px;
+	padding: 150px;
+}
+
+.gambar img {
+	display: flex;
+	width: 20%;
+}
+
+.top {
+	justify-content: center;
+	font-family: sans-serif;
+}
+
+.top h1 {
+	font-size: 40px;
+	margin-top: 30px;
+	margin-left: 150px;
+	font-family: "Arial Narrow";
+}
+
+.top h3 {
+	font-size: 29;
+	margin-top: 10px;
+	margin-left: 150px;
+	font-family: "Times New Roman";
+}
+
+.top h2 {
+	position: relative;
+	font-size: 20px;
+	font-family: "Cambria";
+	padding: 5px;
+	top: 10px;
+	margin-left: 150px;
+	justify-content: left;
+	font-family: sans-serif;
+	font-style: normal;
+}
+
+.atas {
+	padding-top: 20px;
+	width: 200%;
+	height: 20px;
+	margin-top: 20px;
+	background: slategray;
+}
+
+.kotak h2 {
+	position: relative;
+	font-size: 15px;
+	font-family: "Georgia";
+	padding: 5px;
+	top: 30px;
+	margin-left: 150px;
+	justify-content: left;
+	font-style: normal;
+}
+
+input {
+	position: relative;
+	width: 30%;
+	top: 30px;
+	margin: 2px;
+	margin-left: 150px;
+	border: none;
+	outline: none;
+	padding: 3px;
+	height: 70px;
+	border-radius: 15px;
+	border: 1px solid gray;
+	background-color: rgb(205, 205, 250);
+	color: black;
+}
+
+button {
+	border: none;
+	outline: none;
+	padding: 5px;
+	width: 290px;
+	color: black;
+	font-size: 16px;
+	cursor: pointer;
+	margin-top: 40px;
+	margin-left: 150px;
+	border-radius: 10px;
+	background: rgb(95, 194, 237);
+}
+
+button:hover {
+	background: rgb(102, 87, 244);
+}
