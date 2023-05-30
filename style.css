@@ -27,7 +27,7 @@ body {
 	font-family: sans-serif;
 	font-style: normal;
 	padding-top: 50px 50px;
-	margin-left: -590px;
+	margin-left: -630px;
 }
 
 .right h3 {
@@ -39,7 +39,7 @@ body {
 	font-family: sans-serif;
 	font-style: normal;
 	padding-top: 50px 50px;
-	margin-left: -660px;
+	margin-left: -700px;
 }
 
 /* .left {
@@ -65,7 +65,7 @@ body {
 	border-radius: 8px;
 	padding: 5px 39px;
 	background: #567bfb;
-	margin-left: -455px;
+	margin-left: -495px;
 	color: white;
 	font-size: 24px;
 }
@@ -109,7 +109,7 @@ a.admin:focus {
 	top: 50px;
 	left: 230px;
 	padding: 150px;
-	padding-left: 150px;
+	padding-left: 185px;
 }
 
 .gambar img {
